@@ -1,0 +1,6 @@
+1. 사용자 계정 honggildong 만듦
+2. 비밀번호는 123456으로 만듦
+3. 데이터베이스를 hong_db로 만듦
+4. honggildong 계정이 데이터베이스 hong_db에게 모든 권한을 받음
+5. honggildong 계정으로 데이터베이스를 보고 나오세요
+6. 비밀번호를 abc로 바꾸세요
